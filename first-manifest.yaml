@@ -4,7 +4,7 @@ metadata:
   name: my-deploy
   labels:
     app : my-k8s-app
-    owner : IgorMarchenko
+    owner : Igor
 spec:
   selector:
     matchLabels:
